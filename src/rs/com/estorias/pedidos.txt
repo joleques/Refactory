@@ -1,0 +1,14 @@
+1º ESTORIA
+Acompanhar o status do pedido
+
+Como comprador da Loja Online
+Quero visualizar o status do meu pedido após efetuar a compra
+Para que eu fique mais tranquilo e consiga me planejar para entrega
+
+
+2º ESTORIA
+Informar o Clinte do Status do Pedido
+
+Como sistema da loja Online
+Quero enviar por email qual é o status do pedido sempre que ele mudar de status
+Para poder atualizar o cliente do processo de entrega do seu pedido
